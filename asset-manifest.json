@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TwiceReact1/static/css/main.9bb0fd77.css",
+    "main.js": "/TwiceReact1/static/js/main.d8892aca.js",
+    "static/js/787.b89f20f1.chunk.js": "/TwiceReact1/static/js/787.b89f20f1.chunk.js",
+    "static/media/nayeon.png": "/TwiceReact1/static/media/nayeon.9fb48b0dd045d53080bc.png",
+    "static/media/jeongyeon.png": "/TwiceReact1/static/media/jeongyeon.a54be8706ea2a5172840.png",
+    "static/media/tzuyu.png": "/TwiceReact1/static/media/tzuyu.c6fb4dbb0b2a5306104e.png",
+    "static/media/chaeyoung.png": "/TwiceReact1/static/media/chaeyoung.21eb7d9d216442a55c10.png",
+    "static/media/mina.png": "/TwiceReact1/static/media/mina.0d411bab1a5210fdbf5c.png",
+    "static/media/sana.png": "/TwiceReact1/static/media/sana.d6e185d635a748f2719b.png",
+    "static/media/jihyo.png": "/TwiceReact1/static/media/jihyo.61157e39f7825615b57d.png",
+    "static/media/dahyun.png": "/TwiceReact1/static/media/dahyun.024f44e9c3161c1b92f4.png",
+    "static/media/momo.png": "/TwiceReact1/static/media/momo.f02b7b73bccd89f3d5ab.png",
+    "static/media/emma-testimonio.png": "/TwiceReact1/static/media/emma-testimonio.add10415a5668325d2f2.png",
+    "static/media/sarah-testimonio.png": "/TwiceReact1/static/media/sarah-testimonio.2c504d1ebaf1961e4a40.png",
+    "static/media/shawn-testimonio.png": "/TwiceReact1/static/media/shawn-testimonio.0d373888087fb18fc145.png",
+    "static/media/logo.svg": "/TwiceReact1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TwiceReact1/index.html",
+    "main.9bb0fd77.css.map": "/TwiceReact1/static/css/main.9bb0fd77.css.map",
+    "main.d8892aca.js.map": "/TwiceReact1/static/js/main.d8892aca.js.map",
+    "787.b89f20f1.chunk.js.map": "/TwiceReact1/static/js/787.b89f20f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb0fd77.css",
+    "static/js/main.d8892aca.js"
+  ]
+}
