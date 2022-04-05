@@ -19,3 +19,37 @@
 .nombre-testimonio{
     font-size: 24px;
 }
+
+@media (max-width: 700px){
+
+.contenedor-testimonio{
+
+    display: inline-block;
+
+    height: auto;
+
+    width: auto;
+
+}
+
+.imagen-twice{
+
+    width: auto;
+
+}
+
+.nombre-testimonio{
+
+    font-size: 22px;
+
+}
+
+.contenedor-texto{
+
+    font-size: 20px;
+
+    padding: 10px 30px 10px 30px;
+
+}
+
+}
